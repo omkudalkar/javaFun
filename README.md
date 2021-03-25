@@ -1,2 +1,2 @@
 # javaFun
-This is me messing around with Java
+Here, I will code in JAVA
